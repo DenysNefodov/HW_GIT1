@@ -1,6 +1,6 @@
 # HW_GIT1
 
-##JSON
+**JSON**
 ***
 **Создать внешний репозиторий c названием JSON / ветку с названием JSON**
 ```Bash
@@ -93,7 +93,7 @@ Create commit on the web interface
 git pull origin JSON:JSON
 ```
 
-##XML
+**XML**
 ***
 **Создать внешний репозиторий c названием XML / ветку с названием XML**
 ```Bash
@@ -190,7 +190,7 @@ Create commit on the web interface
 git pull origin XML:XML
 ```
 
-##TXT
+**TXT**
 ***
 **Создать внешний репозиторий c названием TXT / ветку с названием TXT**
 ```Bash
