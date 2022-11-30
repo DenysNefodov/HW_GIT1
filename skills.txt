@@ -1,0 +1,9 @@
+Skills
+
+1. GIT;
+2. Terminal Linux;
+3. SQL;
+4. VIM;
+5. JavaScript;
+6. Postman;
+7. Testing Theory;
