@@ -1,0 +1,11 @@
+<?xml version = "1.0"?>
+<bug-report>
+    <Website>https://www.arinadavidova.com/</Website>
+    <OS-Browser>Windows OS/Chrome, Opera</OS-Browser>
+    <ID>1</ID>
+    <Severity-Priority>Page About studio - Button RU/EN - After click on this button</Severity-Priority>
+    <Expected-result>The text on the page is not fully translated</Expected-result>
+    <Steps-1>Open website: https://www.arinadavidova.com/</Steps-1>
+    <Steps-2>Go to the page: About studio</Steps-2>
+    <Steps-3>Click on button RU/EN</Steps-3> 
+</bug-report>
