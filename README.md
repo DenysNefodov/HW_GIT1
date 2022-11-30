@@ -1,6 +1,7 @@
 # HW_GIT1
 
-###JSON
+##JSON
+***
 **Создать внешний репозиторий c названием JSON / ветку с названием JSON**
 ```Bash
 git branch JSON
@@ -93,6 +94,7 @@ git pull origin JSON:JSON
 ```
 
 ##XML
+***
 **Создать внешний репозиторий c названием XML / ветку с названием XML**
 ```Bash
 git checkout -b XML
@@ -189,6 +191,7 @@ git pull origin XML:XML
 ```
 
 ##TXT
+***
 **Создать внешний репозиторий c названием TXT / ветку с названием TXT**
 ```Bash
 git checkout -b TXT
