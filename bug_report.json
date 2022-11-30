@@ -1,0 +1,12 @@
+{
+  "Website":"https://www.arinadavidova.com/",
+  "OS/Browser":"Windows OS/Chrome, Opera",
+  "ID":1,
+  "Summary":"Page About studio - Button RU/EN - After click on this button",
+  "Severity/Priority":"Major/Medium",
+  "Actual result":"The text on the page is not fully translated",
+  "Expected result":"The text on the page is fully translated",
+  "Steps to reproduce_1":"Open website: https://www.arinadavidova.com/",
+  "Steps to reproduce_2":"Go to the page: About studio",
+  "Steps to reproduce_3":"Click on button RU/EN"
+}
